@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Guia Global - Cuidados Básicos para Trabalhadores Home-office
 
-## Getting Started
+Este projeto é um guia prático dedicado a fornecer orientações essenciais para trabalhadores em regime de home-office. A seguir, detalhamos o conteúdo e os objetivos principais deste repositório.
 
-First, run the development server:
+## Objetivo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O Guia Global tem como objetivo principal oferecer informações fundamentais e práticas para trabalhadores que atuam em home-office. Abordamos temas como ergonomia, saúde mental, atividade física, alimentação e hidratação, visando promover hábitos saudáveis e melhorar a qualidade de vida dos profissionais remotos.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Conteúdo
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Ergonomia:** Dicas para configurar seu espaço de trabalho de forma ergonômica.
+- **Saúde Mental:** Estratégias para manter a saúde mental e o bem-estar.
+- **Atividade Física:** Sugestões de exercícios simples para manter o corpo ativo.
+- **Alimentação:** Orientações para uma alimentação equilibrada e energética.
+- **Hidratação:** Importância de manter-se hidratado durante o dia de trabalho.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Como Usar
 
-## Learn More
+Este repositório contém o código-fonte de um site construído com Next.js e Tailwind CSS. Para executar o projeto localmente:
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone este repositório: `git clone https://github.com/seu-usuario/guia-global.git`
+2. Instale as dependências: `npm install`
+3. Execute o projeto: `npm run dev`
+4. Abra seu navegador e acesse: `http://localhost:3000`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contribuições
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, reportar bugs ou adicionar novas funcionalidades através de pull requests. Certifique-se de seguir nossas diretrizes de contribuição.
 
-## Deploy on Vercel
+## Autores
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [Seu Nome](https://github.com/seu-usuario)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Licença
+
+Este projeto é licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo LICENSE.

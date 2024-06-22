@@ -4,7 +4,10 @@ import styles from "../styles/main.module.css";
 export default function Main() {
   return (
     <main className="">
-      <div className="flex items-center mt-3 absolute z-20">
+      <div
+        className="flex items-center mt-3
+       absolute z-20"
+      >
         <Image
           src={"/images/logo_site.png"}
           alt="logoGuiaGlobal"
