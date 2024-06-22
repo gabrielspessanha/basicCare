@@ -1,0 +1,8 @@
+.Content {
+  background-image: url("/images/healthBackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  backdrop-filter: opacity(50%);
+
+  height: 40vh;
+}
