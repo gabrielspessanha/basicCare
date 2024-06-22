@@ -29,7 +29,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, rep
 
 ## Autores
 
-- [Seu Nome](https://github.com/seu-usuario)
+- [Gabriel Pessanha](https://github.com/gabrielspessanha)
 
 ## Licença
 
